@@ -11,14 +11,7 @@ function App() {
       <div className="wrapper">
         <Sidebar />
         <main>
-          <Post
-            author="João"
-            content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore culpa suscipit ex consectetur voluptas totam temporibus inventore ipsa sequi nulla assumenda repudiandae eos illo, fugiat consequatur perferendis quo, aspernatur laboriosam."
-          />
-          <Post
-            author="william"
-            content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore culpa suscipit ex consectetur voluptas totam temporibus inventore ipsa sequi nulla assumenda repudiandae eos illo, fugiat consequatur perferendis quo, aspernatur laboriosam."
-          />
+          <Post />
         </main>
       </div>
     </>
